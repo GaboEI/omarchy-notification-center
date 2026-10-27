@@ -1,0 +1,19 @@
+{
+  "panel.title": "Notification history",
+  "panel.unread": "%1 unread",
+  "panel.allRead": "%1 total",
+  "panel.empty": "Nothing yet. Notifications Omarchy has shown will be listed here.",
+  "panel.markRead": "Mark all read",
+  "panel.close": "Close",
+  "time.now": "now",
+  "time.minutes": "%1 min ago",
+  "time.hours": "%1 h ago",
+  "time.days": "%1 d ago",
+  "panel.closeAll": "Close all",
+  "panel.clear": "Clear history",
+  "bell.history": "Notification history",
+  "bell.unread": "%1 unread",
+  "bell.silenced": "Notifications silenced",
+  "bell.silencedUnread": "%1 unread · notifications silenced",
+  "panel.navigationUnavailable": "This notification can’t be opened safely."
+}

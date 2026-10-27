@@ -1,0 +1,19 @@
+{
+  "panel.title": "Historial de notificaciones",
+  "panel.unread": "%1 sin leer",
+  "panel.allRead": "%1 en total",
+  "panel.empty": "Nada todavía. Aquí aparecerán las notificaciones que muestre Omarchy.",
+  "panel.markRead": "Marcar leídas",
+  "panel.close": "Cerrar",
+  "time.now": "ahora",
+  "time.minutes": "hace %1 min",
+  "time.hours": "hace %1 h",
+  "time.days": "hace %1 d",
+  "panel.closeAll": "Cerrar todas",
+  "panel.clear": "Vaciar historial",
+  "bell.history": "Historial de notificaciones",
+  "bell.unread": "%1 sin leer",
+  "bell.silenced": "Notificaciones silenciadas",
+  "bell.silencedUnread": "%1 sin leer · notificaciones silenciadas",
+  "panel.navigationUnavailable": "Esta notificación no se puede abrir de forma segura."
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "gabodev.notification-center",
+  "name": "Notification History",
+  "version": "1.0.0",
+  "author": "gabodev",
+  "description": "A bell and a history panel for Omarchy's notification service: what arrived while you were away.",
+  "kinds": [
+    "bar-widget",
+    "panel"
+  ],
+  "entryPoints": {
+    "barWidget": "bell.qml",
+    "panel": "Panel.qml"
+  },
+  "keepLoaded": true
+}
